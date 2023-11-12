@@ -1,5 +1,7 @@
 {
   "name": "colors",
+  "license": "MIT",
+  "repository": "kevin-pek/colors",
   "displayName": "theme",
   "description": "",
   "version": "0.0.1",
