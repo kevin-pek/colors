@@ -1,8 +1,9 @@
 {
-  "name": "colors",
+  "name": "liftoff",
   "license": "MIT",
-  "repository": "kevin-pek/colors",
-  "displayName": "theme",
+  "publisher": "KevinPek",
+  "repository": "kevin-pek/liftoff-vscode",
+  "displayName": "Liftoff Theme",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -14,9 +15,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "theme",
+        "label": "Liftoff",
         "uiTheme": "vs-dark",
-        "path": "./themes/theme-color-theme.json"
+        "path": "./themes/liftoff-night-color-theme.json"
       }
     ]
   }
