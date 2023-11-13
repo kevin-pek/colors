@@ -7,4 +7,4 @@
   A minimal dark theme for late night coding sessions. Inspired by various themes such as Poimandres, Rose Pine and Embark.
 </p>
 
-![demo](https://raw.githubusercontent.com/kevin-pek/liftoff-vscode/master/images/demo.png)
+![demo](images/demo.png)

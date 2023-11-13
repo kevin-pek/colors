@@ -2,10 +2,13 @@
   "name": "liftoff",
   "license": "MIT",
   "publisher": "KevinPek",
-  "repository": "kevin-pek/liftoff-vscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevin-pek/liftoff-vscode"
+  },
   "displayName": "Liftoff Theme",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.84.0"
   },
